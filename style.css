@@ -118,3 +118,14 @@ audio{
     to {transform: translateY(-300vh);
     opacity: 0;}
   }
+footer{
+    position: absolute;
+    margin-top: 45%;
+}
+button{
+    border-radius: 20px;
+    padding: 10px;
+    background-color: rgb(49, 114, 199);
+    cursor: pointer;
+    
+}
